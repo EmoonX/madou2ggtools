@@ -8,7 +8,7 @@ set -o errexit
 BASE_PWD=$PWD
 PATH=".:./asm/bin/:$PATH"
 INROM="madou2.gg"
-OUTROM="madou2_en.gg"
+OUTROM="madou2_pt-BR.gg"
 WLADX="./wla-dx/binaries/wla-z80"
 WLALINK="./wla-dx/binaries/wlalink"
 
